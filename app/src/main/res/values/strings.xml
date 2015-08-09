@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select">Home</string>
+    <string name="name">your Name</string>
+    <string name="email">Your Email</string>
+    <string name="phone">Phone</string>
+
+
+
+
+    <string-array name="spinner_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+    </string-array>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+
+</resources>
